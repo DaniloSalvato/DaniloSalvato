@@ -2,7 +2,6 @@
 
 
 - 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
-- 😄 Pronomes: Ele / dele
-- ⚡ Fato imutável: A parte mais divertida dos obstáculos são os detalhes.
+- ⚡ Fato imutável: Qualquer chute em guerra de saci é voadora!
 - 💬 Citação: "O desenvolvimento é progressivo, é necessário paciência."
 
