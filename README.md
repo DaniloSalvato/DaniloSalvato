@@ -16,6 +16,7 @@
 
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![.Net](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=dotnet)&nbsp;
 
 <br>
 
