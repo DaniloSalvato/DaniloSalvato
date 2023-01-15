@@ -1,15 +1,39 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Danilo+Salvato;I'm+22+years+old;I'm+from+Mogi+Mirim,+SP;I+study+Analysis+and+systems+development+at+Fatec;You're+Welcome!+:%29)](https://git.io/typing-svg)
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DaniloSalvato/f60ab31e8a6e43ea2b9856f3eef92d61/raw/fed5e510eea3ff1427c3231be881c65f511355f2/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Dan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DaniloSalvato&color=yellow" alt="Profile views" /> </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaniloSalvato&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Danilo Salvato github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloSalvato&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+- 🔥 Junior Developer focused on C# language
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DaniloSalvato}/count.svg" /></p> 
-<br></div>
+- 🔭 I’m currently working at StarCorp
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+- 💬 Studying **Systems Analysis and Development**
+
+- ⚡ Fun tip **Try again, but not today 😜**
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
+![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=daniloSalvato&show_icons=true&theme=tokyonight" alt="Dan's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloSalvato&layout=compact&theme=tokyonight" alt="Dan's most languages"/>
+</p>
+
+<br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/danilo-salvato/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LinkedIn" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/dan.miguel02/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram" alt="Instagram"/>  
+</a>
