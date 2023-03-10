@@ -15,8 +15,9 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
-![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![SqlServer](https://img.shields.io/badge/-SQLserver-05122A?style=flat&logo=SQLserver)&nbsp;
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=dotnet)&nbsp;
+![Asp.Net](https://img.shields.io/badge/-ASP.NET%20-05122A?style=flat&logo=ASPNET)&nbsp;
 
 <br>
 
