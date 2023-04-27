@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dan</h1>
+<h1 align="center">Hello there 👋, I'm Dan</h1>
 <h3 align="center">A Dev passionate about technology and development, from Brazil</h3>
 
 <img align="right" width="450" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
