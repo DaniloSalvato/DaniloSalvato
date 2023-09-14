@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilosalvato&label=Profile%20views&color=0e75b6&style=flat" alt="danilosalvato" /> </p>
 
-- 🔭 I’m currently working on **StarCorp**
+- 🔭 I’m currently working as a **freelancer**
 
-- 🌱 I’m currently learning **C#, .NET and SQL Server**
+- 🌱 I’m currently learning **C#, .NET and SQL Server, JavaScript, nodeJs**
 
 - 💬 Ask me about **.NET**
 
