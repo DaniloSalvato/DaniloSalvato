@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **freelancer**
 
-- 🌱 I’m currently learning **C#, .NET, SQL Server, JavaScript, nodeJs and MongoDB**
+- 🌱 I’m currently learning ** JavaScript, React, NodeJs and MongoDB**
 
 - 💬 Ask me about **.NET**
 
