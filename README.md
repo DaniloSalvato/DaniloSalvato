@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning ** JavaScript, React, NodeJs and MongoDB**
 
-- 💬 Ask me about **.NET**
+- 💬 Ask me about **JS**
 
 - 📫 How to reach me **danilo_salvato@hotmail.com**
 
