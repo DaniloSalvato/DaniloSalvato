@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilosalvato&label=Profile%20views&color=0e75b6&style=flat" alt="danilosalvato" /> </p>
 
-- 🔭 I’m currently working as a **freelancer**
+- 🔭 I’m currently working at **Compass uol**
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React and NodeJs **
 
