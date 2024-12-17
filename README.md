@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Compass uol**
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React and NodeJs **
+- 🌱 I’m currently learning **JavaScript**, **TypeScript**, **React** and **NodeJs **
 
 - 💬 Ask me about **JS**
 
