@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **freelancer**
 
-- 🌱 I’m currently learning **JavaScript, React, NodeJs and MongoDB**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React and NodeJs **
 
 - 💬 Ask me about **JS**
 
