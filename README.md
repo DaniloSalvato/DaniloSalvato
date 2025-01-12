@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JS**
 
-- 📫 How to reach me <a href='https://portfolio-danilosalvato.vercel.app/'>DaniloSalvato</a> web 
+- 📫 How to reach me **<a href='https://portfolio-danilosalvato.vercel.app/'>DaniloSalvato</a>** **web** **site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
